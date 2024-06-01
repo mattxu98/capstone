@@ -8,3 +8,5 @@ https://mattxu98.github.io/capstone/task3_capstone_project.html
 ### Interactive visual analytics
 - Folium map: https://mattxu98.github.io/capstone/task4.1_capstone_project.html
 - Dashboard: https://mattxu98.github.io/capstone/task4.2_capstone_project.html
+### Predictive modelling
+https://mattxu98.github.io/capstone/task5_capstone_project.html
